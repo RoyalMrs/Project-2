@@ -1,0 +1,13 @@
+header {
+    background-color: lightblue;
+    border: solidblue;
+    border-width: 10px 0 10px 0;
+    margin: 0 auto;
+    text-align: center;
+}   
+h1 {
+    font-size: 3em;
+}
+p {
+    background-color: aqua;
+}
